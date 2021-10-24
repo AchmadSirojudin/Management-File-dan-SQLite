@@ -27,18 +27,18 @@ d. Melihat data public
 
 2. SQLite (CRUD)
 
-1. Create Data
+a. Create Data
 
 ![image](https://user-images.githubusercontent.com/80249314/138596403-3559b048-8ad8-494c-b6ff-4bf73409d7c4.png)
 
-2. Read Data
+b. Read Data
 
 ![image](https://user-images.githubusercontent.com/80249314/138596622-d99d9d0a-579e-4e0a-a4e2-425ea9e0b9b9.png)
 
-3. Update Data
+c. Update Data
 
 ![image](https://user-images.githubusercontent.com/80249314/138596647-6db7be09-7c9f-4bca-b7ec-b5c7e54b8c25.png)
 
-4. Delete Data
+d. Delete Data
 
 ![image](https://user-images.githubusercontent.com/80249314/138596672-245e6f06-de42-49fc-8dff-8d99157c6468.png)
